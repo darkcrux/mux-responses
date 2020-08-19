@@ -17,7 +17,7 @@ import (
     "encoding/json"
     "net/http"
 
-    "gitlab.amihan.net/amihan/common/libraries/go/responses.git"
+    "github.com/darkcrux/mux-responses"
 )
 
 func handler(res http.ResponseWriter, req *http.Request) {
