@@ -9,7 +9,7 @@ The errors returned by this library uses the JsonError format.
 To use:
 
 ```
-go get -u gitlab.amihan.net/amihan/common/libraries/go/responses.git
+go get -u github.com/darkcrux/mux-responses
 ```
 
 ```
