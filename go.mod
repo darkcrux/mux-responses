@@ -1,4 +1,4 @@
-module gitlab.amihan.net/amihan/common/libraries/go/responses.git
+module github.com/darkcrux/mux-responses
 
 go 1.14
 
